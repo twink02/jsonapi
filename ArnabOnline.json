@@ -1,0 +1,446 @@
+{
+    "status": true,
+    "data": {
+        "arnab_online": {
+            "image": "https://assets-jpcust.jwpsrv.com/thumbnails/lm79j970-720.jpg",
+            "description": "Welcome to Arnab Online, your one-stop destination for all of Arnab Goswami’s blazing debates, scintillating exclusive interviews, mega newsbreaks, most quotable quotes, unmissable highlights and must-read articles.  Arnab Online is Arnab Goswami’s Twitter, Facebook and Instagram all rolled into one - the only ‘social media’ where Arnab officially has a handle.",
+            "color_code": [
+                "#d02048"
+            ]
+        },
+        "arnab_playlist": {
+            "image": "https://assets-jpcust.jwpsrv.com/thumbnails/lm79j970-720.jpg",
+            "description": "Your daily dose of must-watch videos, curated by Republic TV’s Editor-in-Chief Arnab Goswami",
+            "stories": [
+                {
+                    "id": 502986,
+                    "headline": "<font color='#0000FF'>Baymax</font> kerala blockchain academy offers free course in ethereum blockchain",
+                    "type": "P",
+                    "pub_datetime": "2021-09-28 10:30:39",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/e7uilahbtojnsvyy_1631786989.jpeg",
+                    "video_path": "",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502986?v=6.96",
+                    "reading_time": "2-MIN",
+                    "meta_description": "kerala blockchain academy offers free course in ethereum blockchain",
+                    "complete_slug": "https://stg-m.mynationvoice.com/india-news/politics/kerala-blockchain-academy-offers-free-course-in-ethereum-blockchain.html",
+                    "color_code": []
+                },
+                {
+                    "id": 502236,
+                    "headline": "All-round Bumrah headlines opening day for India as Australia A bowled out for 108",
+                    "type": "V",
+                    "pub_datetime": "2021-03-08 13:40:28",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/cnwjpz387usvpase_1607690457.jpeg",
+                    "video_path": "6215628000001",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502236?v=6.96",
+                    "reading_time": "5-MIN",
+                    "meta_description": "ALL-ROUND BUMRAH HEADLINES OPENING DAY FOR INDIA AS AUSTRALIA A BOWLED OUT FOR 108",
+                    "complete_slug": "https://stg-m.mynationvoice.com/entertainment-news/hollywood-news/all-round-bumrah-headlines-opening-day-for-india-as-australia-a-bowled-out-for-108.html",
+                    "color_code": []
+                },
+                {
+                    "id": 502986,
+                    "headline": "<font color='#0000FF'>Baymax</font> kerala blockchain academy offers free course in ethereum blockchain",
+                    "type": "P",
+                    "pub_datetime": "2021-09-28 10:30:39",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/e7uilahbtojnsvyy_1631786989.jpeg",
+                    "video_path": "",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502986?v=6.96",
+                    "reading_time": "2-MIN",
+                    "meta_description": "kerala blockchain academy offers free course in ethereum blockchain",
+                    "complete_slug": "https://stg-m.mynationvoice.com/india-news/politics/kerala-blockchain-academy-offers-free-course-in-ethereum-blockchain.html",
+                    "color_code": []
+                },
+                {
+                    "id": 502236,
+                    "headline": "All-round Bumrah headlines opening day for India as Australia A bowled out for 108",
+                    "type": "V",
+                    "pub_datetime": "2021-03-08 13:40:28",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/cnwjpz387usvpase_1607690457.jpeg",
+                    "video_path": "6215628000001",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502236?v=6.96",
+                    "reading_time": "5-MIN",
+                    "meta_description": "ALL-ROUND BUMRAH HEADLINES OPENING DAY FOR INDIA AS AUSTRALIA A BOWLED OUT FOR 108",
+                    "complete_slug": "https://stg-m.mynationvoice.com/entertainment-news/hollywood-news/all-round-bumrah-headlines-opening-day-for-india-as-australia-a-bowled-out-for-108.html",
+                    "color_code": []
+                },
+                {
+                    "id": 502986,
+                    "headline": "<font color='#0000FF'>Baymax</font> kerala blockchain academy offers free course in ethereum blockchain",
+                    "type": "P",
+                    "pub_datetime": "2021-09-28 10:30:39",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/e7uilahbtojnsvyy_1631786989.jpeg",
+                    "video_path": "",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502986?v=6.96",
+                    "reading_time": "2-MIN",
+                    "meta_description": "kerala blockchain academy offers free course in ethereum blockchain",
+                    "complete_slug": "https://stg-m.mynationvoice.com/india-news/politics/kerala-blockchain-academy-offers-free-course-in-ethereum-blockchain.html",
+                    "color_code": []
+                }
+            ]
+        },
+        "arnab_lead_story": {
+            "image": "https://assets-jpcust.jwpsrv.com/thumbnails/lm79j970-720.jpg",
+            "description": "Your daily dose of must-watch videos, curated by Republic TV’s Editor-in-Chief Arnab Goswami",
+            "stories": [
+                {
+                    "id": 502907,
+                    "headline": "<font color='#FF0000'>Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri</font> Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri  Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri ...Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri",
+                    "type": "V",
+                    "hashtag": "##IndiaExposesGlobalPlot",
+                    "pub_datetime": "2021-07-05 14:21:50",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/kakqgt9cnobftgd2_1625475085.jpeg",
+                    "video_path": "6262390926001",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502907?v=6.96",
+                    "reading_time": "5-MIN",
+                    "meta_description": "Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri",
+                    "complete_slug": "https://stg-m.mynationvoice.com/entertainment-news/hollywood-news/daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-dot-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri.html",
+                    "color_code": []
+                }
+            ]
+        },
+        "arnab_online_stories": {
+            "image": "https://assets-jpcust.jwpsrv.com/thumbnails/lm79j970-720.jpg",
+            "description": "Your daily dose of must-watch videos, curated by Republic TV’s Editor-in-Chief Arnab Goswami",
+            "stories": [
+                {
+                    "id": 502907,
+                    "headline": "<font color='#FF0000'>Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri</font> Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri  Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri ...Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri",
+                    "type": "V",
+                    "hashtag": "##IndiaExposesGlobalPlot",
+                    "pub_datetime": "2021-07-05 14:21:50",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/kakqgt9cnobftgd2_1625475085.jpeg",
+                    "video_path": "6262390926001",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502907?v=6.96",
+                    "reading_time": "5-MIN",
+                    "meta_description": "Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri",
+                    "complete_slug": "https://stg-m.mynationvoice.com/entertainment-news/hollywood-news/daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-dot-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri.html",
+                    "color_code": []
+                }
+            ]
+        },
+        "arnab_show_highlights": {
+            "image": "https://assets-jpcust.jwpsrv.com/thumbnails/lm79j970-720.jpg",
+            "description": "Your daily dose of must-watch videos, curated by Republic TV’s Editor-in-Chief Arnab Goswami",
+            "stories": [
+                {
+                    "id": 502907,
+                    "headline": "<font color='#FF0000'>Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri</font> Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri  Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri ...Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri",
+                    "type": "V",
+                    "pub_datetime": "2021-07-05 14:21:50",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/kakqgt9cnobftgd2_1625475085.jpeg",
+                    "video_path": "6262390926001",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502907?v=6.96",
+                    "reading_time": "5-MIN",
+                    "meta_description": "Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri",
+                    "complete_slug": "https://stg-m.mynationvoice.com/entertainment-news/hollywood-news/daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-dot-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri.html",
+                    "color_code": []
+                },
+                {
+                    "id": 502907,
+                    "headline": "<font color='#FF0000'>Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri</font> Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri  Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri ...Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri",
+                    "type": "V",
+                    "pub_datetime": "2021-07-05 14:21:50",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/kakqgt9cnobftgd2_1625475085.jpeg",
+                    "video_path": "6262390926001",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502907?v=6.96",
+                    "reading_time": "5-MIN",
+                    "meta_description": "Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri",
+                    "complete_slug": "https://stg-m.mynationvoice.com/entertainment-news/hollywood-news/daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-dot-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri.html",
+                    "color_code": []
+                },
+                {
+                    "id": 502907,
+                    "headline": "<font color='#FF0000'>Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri</font> Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri  Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri ...Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri",
+                    "type": "V",
+                    "pub_datetime": "2021-07-05 14:21:50",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/kakqgt9cnobftgd2_1625475085.jpeg",
+                    "video_path": "6262390926001",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502907?v=6.96",
+                    "reading_time": "5-MIN",
+                    "meta_description": "Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri",
+                    "complete_slug": "https://stg-m.mynationvoice.com/entertainment-news/hollywood-news/daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-dot-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri.html",
+                    "color_code": []
+                },
+                {
+                    "id": 502907,
+                    "headline": "<font color='#FF0000'>Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri</font> Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri  Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri ...Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri",
+                    "type": "V",
+                    "pub_datetime": "2021-07-05 14:21:50",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/kakqgt9cnobftgd2_1625475085.jpeg",
+                    "video_path": "6262390926001",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502907?v=6.96",
+                    "reading_time": "5-MIN",
+                    "meta_description": "Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri",
+                    "complete_slug": "https://stg-m.mynationvoice.com/entertainment-news/hollywood-news/daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-dot-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri.html",
+                    "color_code": []
+                },
+                {
+                    "id": 502907,
+                    "headline": "<font color='#FF0000'>Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri</font> Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri  Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri ...Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri",
+                    "type": "V",
+                    "pub_datetime": "2021-07-05 14:21:50",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/kakqgt9cnobftgd2_1625475085.jpeg",
+                    "video_path": "6262390926001",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502907?v=6.96",
+                    "reading_time": "5-MIN",
+                    "meta_description": "Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri",
+                    "complete_slug": "https://stg-m.mynationvoice.com/entertainment-news/hollywood-news/daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-dot-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri.html",
+                    "color_code": []
+                }
+            ]
+        },
+        "poll": {
+            "image": "https://assets-jpcust.jwpsrv.com/thumbnails/lm79j970-720.jpg",
+            "description": "Your daily dose of must-watch videos, curated by Republic TV’s Editor-in-Chief Arnab Goswami",
+            "id": "1223",
+            "question": "Who has more to lose in the upcoming elections in 4 states and 1 UT?",
+            "option": [
+                {
+                    "pollOptionId": "1234",
+                    "pollOption": "BJP",
+                    "voteCount": "234",
+                    "selected": false,
+                    "color_code": ""
+                },
+                {
+                    "pollOptionId": "1234",
+                    "pollOption": "Congress",
+                    "voteCount": "12",
+                    "selected": false,
+                    "color_code": ""
+                },
+                {
+                    "pollOptionId": "1234",
+                    "pollOption": "AAP",
+                    "voteCount": "123",
+                    "selected": false,
+                    "color_code": ""
+                }
+            ]
+        },
+        "arnab_latest_interviews": {
+            "image": "https://assets-jpcust.jwpsrv.com/thumbnails/lm79j970-720.jpg",
+            "description": "Your daily dose of must-watch videos, curated by Republic TV’s Editor-in-Chief Arnab Goswami",
+            "stories": [
+                {
+                    "id": 502907,
+                    "headline": "<font color='#FF0000'>Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri</font> Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri  Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri ...Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri",
+                    "type": "V",
+                    "pub_datetime": "2021-07-05 14:21:50",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/kakqgt9cnobftgd2_1625475085.jpeg",
+                    "video_path": "6262390926001",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502907?v=6.96",
+                    "reading_time": "5-MIN",
+                    "meta_description": "Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri",
+                    "complete_slug": "https://stg-m.mynationvoice.com/entertainment-news/hollywood-news/daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-dot-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri.html",
+                    "color_code": []
+                },
+                {
+                    "id": 502907,
+                    "headline": "<font color='#FF0000'>Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri</font> Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri  Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri ...Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri",
+                    "type": "V",
+                    "pub_datetime": "2021-07-05 14:21:50",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/kakqgt9cnobftgd2_1625475085.jpeg",
+                    "video_path": "6262390926001",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502907?v=6.96",
+                    "reading_time": "5-MIN",
+                    "meta_description": "Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri",
+                    "complete_slug": "https://stg-m.mynationvoice.com/entertainment-news/hollywood-news/daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-dot-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri.html",
+                    "color_code": []
+                },
+                {
+                    "id": 502907,
+                    "headline": "<font color='#FF0000'>Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri</font> Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri  Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri ...Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri",
+                    "type": "V",
+                    "pub_datetime": "2021-07-05 14:21:50",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/kakqgt9cnobftgd2_1625475085.jpeg",
+                    "video_path": "6262390926001",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502907?v=6.96",
+                    "reading_time": "5-MIN",
+                    "meta_description": "Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri",
+                    "complete_slug": "https://stg-m.mynationvoice.com/entertainment-news/hollywood-news/daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-dot-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri.html",
+                    "color_code": []
+                },
+                {
+                    "id": 502907,
+                    "headline": "<font color='#FF0000'>Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri</font> Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri  Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri ...Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri",
+                    "type": "V",
+                    "pub_datetime": "2021-07-05 14:21:50",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/kakqgt9cnobftgd2_1625475085.jpeg",
+                    "video_path": "6262390926001",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502907?v=6.96",
+                    "reading_time": "5-MIN",
+                    "meta_description": "Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri",
+                    "complete_slug": "https://stg-m.mynationvoice.com/entertainment-news/hollywood-news/daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-dot-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri.html",
+                    "color_code": []
+                },
+                {
+                    "id": 502907,
+                    "headline": "<font color='#FF0000'>Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri</font> Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri  Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri ...Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri",
+                    "type": "V",
+                    "pub_datetime": "2021-07-05 14:21:50",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/kakqgt9cnobftgd2_1625475085.jpeg",
+                    "video_path": "6262390926001",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502907?v=6.96",
+                    "reading_time": "5-MIN",
+                    "meta_description": "Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri",
+                    "complete_slug": "https://stg-m.mynationvoice.com/entertainment-news/hollywood-news/daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-dot-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri.html",
+                    "color_code": []
+                }
+            ]
+        },
+        "arnab_top_comments": {
+            "image": "https://assets-jpcust.jwpsrv.com/thumbnails/lm79j970-720.jpg",
+            "description": "Your daily dose of must-watch videos, curated by Republic TV’s Editor-in-Chief Arnab Goswami",
+            "stories": [
+                {
+                    "id": 502907,
+                    "headline": "<font color='#FF0000'>Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri</font> Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri  Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri ...Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri",
+                    "type": "V",
+                    "hashtag": "##IndiaExposesGlobalPlot",
+                    "pub_datetime": "2021-07-05 14:21:50",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/kakqgt9cnobftgd2_1625475085.jpeg",
+                    "video_path": "6262390926001",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502907?v=6.96",
+                    "reading_time": "5-MIN",
+                    "meta_description": "Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri",
+                    "complete_slug": "https://stg-m.mynationvoice.com/entertainment-news/hollywood-news/daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-dot-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri.html",
+                    "color_code": []
+                },
+                {
+                    "id": 502907,
+                    "headline": "<font color='#FF0000'>Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri</font> Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri  Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri ...Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri",
+                    "type": "V",
+                    "hashtag": "##IndiaExposesGlobalPlot",
+                    "pub_datetime": "2021-07-05 14:21:50",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/kakqgt9cnobftgd2_1625475085.jpeg",
+                    "video_path": "6262390926001",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502907?v=6.96",
+                    "reading_time": "5-MIN",
+                    "meta_description": "Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri",
+                    "complete_slug": "https://stg-m.mynationvoice.com/entertainment-news/hollywood-news/daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-dot-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri.html",
+                    "color_code": []
+                },
+                {
+                    "id": 502907,
+                    "headline": "<font color='#FF0000'>Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri</font> Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri  Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri ...Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri",
+                    "type": "V",
+                    "hashtag": "##IndiaExposesGlobalPlot",
+                    "pub_datetime": "2021-07-05 14:21:50",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/kakqgt9cnobftgd2_1625475085.jpeg",
+                    "video_path": "6262390926001",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502907?v=6.96",
+                    "reading_time": "5-MIN",
+                    "meta_description": "Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri",
+                    "complete_slug": "https://stg-m.mynationvoice.com/entertainment-news/hollywood-news/daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-dot-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri.html",
+                    "color_code": []
+                },
+                {
+                    "id": 502907,
+                    "headline": "<font color='#FF0000'>Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri</font> Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri  Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri ...Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri",
+                    "type": "V",
+                    "hashtag": "##IndiaExposesGlobalPlot",
+                    "pub_datetime": "2021-07-05 14:21:50",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/kakqgt9cnobftgd2_1625475085.jpeg",
+                    "video_path": "6262390926001",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502907?v=6.96",
+                    "reading_time": "5-MIN",
+                    "meta_description": "Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri",
+                    "complete_slug": "https://stg-m.mynationvoice.com/entertainment-news/hollywood-news/daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-dot-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri.html",
+                    "color_code": []
+                },
+                {
+                    "id": 502907,
+                    "headline": "<font color='#FF0000'>Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri</font> Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri  Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri ...Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri",
+                    "type": "V",
+                    "hashtag": "##IndiaExposesGlobalPlot",
+                    "pub_datetime": "2021-07-05 14:21:50",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/kakqgt9cnobftgd2_1625475085.jpeg",
+                    "video_path": "6262390926001",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502907?v=6.96",
+                    "reading_time": "5-MIN",
+                    "meta_description": "Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri",
+                    "complete_slug": "https://stg-m.mynationvoice.com/entertainment-news/hollywood-news/daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-dot-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri.html",
+                    "color_code": []
+                }
+            ]
+        },
+        "arnab_shows": {
+            "image": "https://assets-jpcust.jwpsrv.com/thumbnails/lm79j970-720.jpg",
+            "description": "Your daily dose of must-watch videos, curated by Republic TV’s Editor-in-Chief Arnab Goswami",
+            "stories": [
+                {
+                    "id": 502907,
+                    "headline": "<font color='#FF0000'>Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri</font> Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri  Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri ...Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri",
+                    "type": "V",
+                    "hashtag": "##IndiaExposesGlobalPlot",
+                    "pub_datetime": "2021-07-05 14:21:50",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/kakqgt9cnobftgd2_1625475085.jpeg",
+                    "video_path": "6262390926001",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502907?v=6.96",
+                    "reading_time": "5-MIN",
+                    "meta_description": "Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri",
+                    "complete_slug": "https://stg-m.mynationvoice.com/entertainment-news/hollywood-news/daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-dot-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri.html",
+                    "color_code": []
+                },
+                {
+                    "id": 502907,
+                    "headline": "<font color='#FF0000'>Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri</font> Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri  Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri ...Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri",
+                    "type": "V",
+                    "hashtag": "##IndiaExposesGlobalPlot",
+                    "pub_datetime": "2021-07-05 14:21:50",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/kakqgt9cnobftgd2_1625475085.jpeg",
+                    "video_path": "6262390926001",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502907?v=6.96",
+                    "reading_time": "5-MIN",
+                    "meta_description": "Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri",
+                    "complete_slug": "https://stg-m.mynationvoice.com/entertainment-news/hollywood-news/daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-dot-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri.html",
+                    "color_code": []
+                },
+                {
+                    "id": 502907,
+                    "headline": "<font color='#FF0000'>Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri</font> Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri  Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri ...Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri",
+                    "type": "V",
+                    "hashtag": "##IndiaExposesGlobalPlot",
+                    "pub_datetime": "2021-07-05 14:21:50",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/kakqgt9cnobftgd2_1625475085.jpeg",
+                    "video_path": "6262390926001",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502907?v=6.96",
+                    "reading_time": "5-MIN",
+                    "meta_description": "Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri",
+                    "complete_slug": "https://stg-m.mynationvoice.com/entertainment-news/hollywood-news/daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-dot-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri.html",
+                    "color_code": []
+                },
+                {
+                    "id": 502907,
+                    "headline": "<font color='#FF0000'>Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri</font> Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri  Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri ...Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri",
+                    "type": "V",
+                    "hashtag": "##IndiaExposesGlobalPlot",
+                    "pub_datetime": "2021-07-05 14:21:50",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/kakqgt9cnobftgd2_1625475085.jpeg",
+                    "video_path": "6262390926001",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502907?v=6.96",
+                    "reading_time": "5-MIN",
+                    "meta_description": "Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri",
+                    "complete_slug": "https://stg-m.mynationvoice.com/entertainment-news/hollywood-news/daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-dot-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri.html",
+                    "color_code": []
+                },
+                {
+                    "id": 502907,
+                    "headline": "<font color='#FF0000'>Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri</font> Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri  Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri ...Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri",
+                    "type": "V",
+                    "hashtag": "##IndiaExposesGlobalPlot",
+                    "pub_datetime": "2021-07-05 14:21:50",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/kakqgt9cnobftgd2_1625475085.jpeg",
+                    "video_path": "6262390926001",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502907?v=6.96",
+                    "reading_time": "5-MIN",
+                    "meta_description": "Daisy by Sheth Creators, an Indulgent Destination Set to Bloom at Vasant Oasis, Andheri",
+                    "complete_slug": "https://stg-m.mynationvoice.com/entertainment-news/hollywood-news/daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-dot-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri.html",
+                    "color_code": []
+                }
+            ]
+        }
+    }
+}
