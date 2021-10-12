@@ -1,0 +1,43 @@
+{
+    "status": true,
+    "data": {
+        "sub_categories": [
+            {
+                "title": "#CrushTerrorToolkit",
+                "complete_slug": "",
+                "color_code_1": "#FF0000",
+                "color_code_2": "#A43EF4"
+            },
+            {
+                "title": "#CrushTerrorToolkit",
+                "complete_slug": "",
+                "color_code_1": "#FF8413",
+                "color_code_2": "#FCC200"
+            },
+            {
+                "title": "#CrushTerrorToolkit",
+                "complete_slug": "",
+                "color_code_1": "#A43EF4",
+                "color_code_2": "#26BEFF"
+            },
+            {
+                "title": "#CrushTerrorToolkit",
+                "complete_slug": "",
+                "color_code_1": "#008000",
+                "color_code_2": "#0BDA51"
+            },
+            {
+                "title": "#CrushTerrorToolkit",
+                "complete_slug": "",
+                "color_code_1": "#FF00FF",
+                "color_code_2": "#26BEFF"
+            },
+            {
+                "title": "#CrushTerrorToolkit",
+                "complete_slug": "",
+                "color_code_1": "#A43EF4",
+                "color_code_2": "#0BDA51"
+            }
+        ]
+    }
+}
