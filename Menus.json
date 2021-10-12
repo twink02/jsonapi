@@ -1,0 +1,144 @@
+{
+    "status": true,
+    "updated_at": "2021-10-12 18:20:09",
+    "data": {
+        "menus": [
+            {
+                "title": "Top Stories",
+                "slug": "top-stories",
+                "color_code_1": "#FF0000",
+                "color_code_2": "#A43EF4",
+                "mapper_id": "1000",
+                "mapper_type": "TOP_STORIES"
+            },
+            {
+                "title": "Coronavirus",
+                "slug": "topics/coronavirus",
+                "color_code_1": "#FF00FF",
+                "color_code_2": "#FCC200",
+                "mapper_id": "2000",
+                "mapper_type": "CORONAVIRUS"
+            },
+            {
+                "title": "The Debate",
+                "slug": "the-debate",
+                "color_code_1": "#FF0000",
+                "color_code_2": "#A43EF4",
+                "mapper_id": "35",
+                "mapper_type": "DEBATE"
+            },
+            {
+                "title": "World News",
+                "slug": "world-news",
+                "color_code_1": "#FF8413",
+                "color_code_2": "#FCC200",
+                "mapper_id": "27",
+                "mapper_type": "CATEGORY"
+            },
+            {
+                "title": "India News ",
+                "slug": "india-news",
+                "color_code_1": "#A43EF4",
+                "color_code_2": "#26BEFF",
+                "mapper_id": "24",
+                "mapper_type": "CATEGORY"
+            },
+            {
+                "title": "Entertainment News",
+                "slug": "entertainment-news",
+                "color_code_1": "#008000",
+                "color_code_2": "#0BDA51",
+                "mapper_id": "25",
+                "mapper_type": "CATEGORY"
+            },
+            {
+                "title": "Sports News",
+                "slug": "sports-news",
+                "color_code_1": "#FF00FF",
+                "color_code_2": "#26BEFF",
+                "mapper_id": "26",
+                "mapper_type": "CATEGORY"
+            },
+            {
+                "title": "Technology News",
+                "slug": "technology-news",
+                "color_code_1": "#A43EF4",
+                "color_code_2": "#0BDA51",
+                "mapper_id": "28",
+                "mapper_type": "CATEGORY"
+            },
+            {
+                "title": "Business News",
+                "slug": "business-news",
+                "color_code_1": "#0000FF",
+                "color_code_2": "#26BEFF",
+                "mapper_id": "75",
+                "mapper_type": "CATEGORY"
+            },
+            {
+                "title": "Lifestyle",
+                "slug": "lifestyle",
+                "color_code_1": "#FF0000",
+                "color_code_2": "#FF00FF",
+                "mapper_id": "22",
+                "mapper_type": "CATEGORY"
+            },
+            {
+                "title": "Opinions",
+                "slug": "opinions",
+                "color_code_1": "#FCC200",
+                "color_code_2": "#FF1493",
+                "mapper_id": "46",
+                "mapper_type": "CATEGORY"
+            },
+            {
+                "title": "Nation Wants To know",
+                "slug": "shows/nation-wants-to-know",
+                "color_code_1": "#A43EF4",
+                "color_code_2": "#FF8413",
+                "mapper_id": "69",
+                "mapper_type": "CATEGORY"
+            },
+            {
+                "title": "Rest of the World News",
+                "slug": "world-news/rest-of-the-world-news",
+                "color_code_1": "#FF0000",
+                "color_code_2": "#FF8413",
+                "mapper_id": "45",
+                "mapper_type": "CATEGORY"
+            },
+            {
+                "title": "Election News",
+                "slug": "election-news",
+                "color_code_1": "#A43EF4",
+                "color_code_2": "#FF1493",
+                "mapper_id": "48",
+                "mapper_type": "CATEGORY"
+            },
+            {
+                "title": "Shows",
+                "slug": "shows",
+                "color_code_1": "#26BEFF",
+                "color_code_2": "#0BDA51",
+                "mapper_id": "7",
+                "mapper_type": "CATEGORY"
+            },
+            {
+                "title": "Behtar India",
+                "slug": "initiatives/behtar-india",
+                "color_code_1": "#FF0000",
+                "color_code_2": "#0000FF",
+                "mapper_id": "1050",
+                "mapper_type": "CATEGORY"
+            },
+            {
+                "title": "Nation Wants To know",
+                "slug": "shows/nation-wants-to-know",
+                "color_code_1": "#008000",
+                "color_code_2": "#26BEFF",
+                "mapper_id": "69",
+                "mapper_type": "CATEGORY"
+            }
+        ]
+    }
+}
