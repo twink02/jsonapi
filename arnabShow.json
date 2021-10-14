@@ -1,0 +1,446 @@
+{
+    "status": true,
+    "data": {
+        "arnab_online": {
+            "image": "https://assets-jpcust.jwpsrv.com/thumbnails/lm79j970-720.jpg",
+            "description": "Welcome to Arnab Online, your one-stop destination for all of Arnab Goswami’s blazing debates, scintillating exclusive interviews, mega newsbreaks, most quotable quotes, unmissable highlights and must-read articles.  Arnab Online is Arnab Goswami’s Twitter, Facebook and Instagram all rolled into one - the only ‘social media’ where Arnab officially has a handle.",
+            "color_code": [
+                "#d02048"
+            ]
+        },
+        "arnab_playlist": {
+            "image": "https://assets-jpcust.jwpsrv.com/thumbnails/lm79j970-720.jpg",
+            "description": "Your daily dose of must-watch videos, curated by Republic TV’s Editor-in-Chief Arnab Goswami",
+            "stories": [
+                {
+                    "id": 502986,
+                    "headline": "Watch: Terrorists shoot at 2 policemen in Srinagar",
+                    "type": "P",
+                    "pub_datetime": "2021-09-28 10:30:39",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/e7uilahbtojnsvyy_1631786989.jpeg",
+                    "video_path": "",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502986?v=6.96",
+                    "reading_time": "2-MIN",
+                    "meta_description": "kerala blockchain academy offers free course in ethereum blockchain",
+                    "complete_slug": "https://stg-m.mynationvoice.com/india-news/politics/kerala-blockchain-academy-offers-free-course-in-ethereum-blockchain.html",
+                    "color_code": []
+                },
+                {
+                    "id": 502236,
+                    "headline": "Watch: Terrorists shoot at 2 policemen in Srinagar",
+                    "type": "V",
+                    "pub_datetime": "2021-03-08 13:40:28",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/cnwjpz387usvpase_1607690457.jpeg",
+                    "video_path": "6215628000001",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502236?v=6.96",
+                    "reading_time": "5-MIN",
+                    "meta_description": "ALL-ROUND BUMRAH HEADLINES OPENING DAY FOR INDIA AS AUSTRALIA A BOWLED OUT FOR 108",
+                    "complete_slug": "https://stg-m.mynationvoice.com/entertainment-news/hollywood-news/all-round-bumrah-headlines-opening-day-for-india-as-australia-a-bowled-out-for-108.html",
+                    "color_code": []
+                },
+                {
+                    "id": 502986,
+                    "headline": "Watch: Terrorists shoot at 2 policemen in Srinagar",
+                    "type": "P",
+                    "pub_datetime": "2021-09-28 10:30:39",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/e7uilahbtojnsvyy_1631786989.jpeg",
+                    "video_path": "",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502986?v=6.96",
+                    "reading_time": "2-MIN",
+                    "meta_description": "kerala blockchain academy offers free course in ethereum blockchain",
+                    "complete_slug": "https://stg-m.mynationvoice.com/india-news/politics/kerala-blockchain-academy-offers-free-course-in-ethereum-blockchain.html",
+                    "color_code": []
+                },
+                {
+                    "id": 502236,
+                    "headline": "Watch: Terrorists shoot at 2 policemen in Srinagar",
+                    "type": "V",
+                    "pub_datetime": "2021-03-08 13:40:28",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/cnwjpz387usvpase_1607690457.jpeg",
+                    "video_path": "6215628000001",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502236?v=6.96",
+                    "reading_time": "5-MIN",
+                    "meta_description": "ALL-ROUND BUMRAH HEADLINES OPENING DAY FOR INDIA AS AUSTRALIA A BOWLED OUT FOR 108",
+                    "complete_slug": "https://stg-m.mynationvoice.com/entertainment-news/hollywood-news/all-round-bumrah-headlines-opening-day-for-india-as-australia-a-bowled-out-for-108.html",
+                    "color_code": []
+                },
+                {
+                    "id": 502986,
+                    "headline": "Watch: Terrorists shoot at 2 policemen in Srinagar",
+                    "type": "P",
+                    "pub_datetime": "2021-09-28 10:30:39",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/e7uilahbtojnsvyy_1631786989.jpeg",
+                    "video_path": "",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502986?v=6.96",
+                    "reading_time": "2-MIN",
+                    "meta_description": "kerala blockchain academy offers free course in ethereum blockchain",
+                    "complete_slug": "https://stg-m.mynationvoice.com/india-news/politics/kerala-blockchain-academy-offers-free-course-in-ethereum-blockchain.html",
+                    "color_code": []
+                }
+            ]
+        },
+        "arnab_lead_story": {
+            "image": "https://assets-jpcust.jwpsrv.com/thumbnails/lm79j970-720.jpg",
+            "description": "Arnab’s opinion on the day’s biggest story: Fierce. Direct. Uncompromising.",
+            "stories": [
+                {
+                    "id": 502907,
+                    "headline": "Hashtag or headline here",
+                    "type": "V",
+                    "hashtag": "##IndiaExposesGlobalPlot",
+                    "pub_datetime": "2021-07-05 14:21:50",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/kakqgt9cnobftgd2_1625475085.jpeg",
+                    "video_path": "6262390926001",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502907?v=6.96",
+                    "reading_time": "5-MIN",
+                    "meta_description": "“Lorem ipsum sit dolor amet. Sit lore dolor ipsum amet lorem ipsum sit a dolor amet a lorem amet si dolor site amet ipsum dolor ame lo a amet dol lorem ipsum sit dolor amet. Sit lore dolor ipsum amet lorem ipsum sit a dolor amet a lorem amet dolo.”",
+                    "complete_slug": "https://stg-m.mynationvoice.com/entertainment-news/hollywood-news/daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-dot-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri.html",
+                    "color_code": []
+                }
+            ]
+        },
+        "arnab_online_stories": {
+            "image": "https://assets-jpcust.jwpsrv.com/thumbnails/lm79j970-720.jpg",
+            "description": "Your channel. Your voice.",
+            "stories": [
+                {
+                    "id": 502907,
+                    "headline": "Four years ago, the REPUBLIC MEDIA NETWORK was born. Today with 1250 members, 3 leading channels, a massive digital presence and reaching over 30 crore Indians every week, we are ready for the next phase of growth.",
+                    "type": "V",
+                    "hashtag": "##IndiaExposesGlobalPlot",
+                    "pub_datetime": "2021-07-05 14:21:50",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/kakqgt9cnobftgd2_1625475085.jpeg",
+                    "video_path": "6262390926001",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502907?v=6.96",
+                    "reading_time": "5-MIN",
+                    "meta_description": "Four years ago, the REPUBLIC MEDIA NETWORK was born. Today with 1250 members, 3 leading channels, a massive digital presence and reaching over 30 crore Indians every week, we are ready for the next phase of growth.",
+                    "complete_slug": "https://stg-m.mynationvoice.com/entertainment-news/hollywood-news/daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-dot-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri.html",
+                    "color_code": []
+                }
+            ]
+        },
+        "arnab_show_highlights": {
+            "image": "https://assets-jpcust.jwpsrv.com/thumbnails/lm79j970-720.jpg",
+            "description": "Watch the latest highlights from Arnab’s shows",
+            "stories": [
+                {
+                    "id": 502907,
+                    "headline": "SC pulls up lobby for attacking Harish Salve | Arnab Goswami Debates",
+                    "type": "V",
+                    "pub_datetime": "2021-07-05 14:21:50",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/kakqgt9cnobftgd2_1625475085.jpeg",
+                    "video_path": "6262390926001",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502907?v=6.96",
+                    "reading_time": "5-MIN",
+                    "meta_description": "SC pulls up lobby for attacking Harish Salve | Arnab Goswami Debates",
+                    "complete_slug": "https://stg-m.mynationvoice.com/entertainment-news/hollywood-news/daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-dot-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri.html",
+                    "color_code": []
+                },
+                {
+                    "id": 502907,
+                    "headline": "Congress To Attend PM Modi's All-party Meet On June 24 | Arnab Goswami Debates ",
+                    "type": "V",
+                    "pub_datetime": "2021-07-05 14:21:50",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/kakqgt9cnobftgd2_1625475085.jpeg",
+                    "video_path": "6262390926001",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502907?v=6.96",
+                    "reading_time": "5-MIN",
+                    "meta_description": "Congress To Attend PM Modi's All-party Meet On June 24 | Arnab Goswami Debates ",
+                    "complete_slug": "https://stg-m.mynationvoice.com/entertainment-news/hollywood-news/daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-dot-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri.html",
+                    "color_code": []
+                },
+                {
+                    "id": 502907,
+                    "headline": "India faces biggest ever health crisis | Arnab Goswami Debates ",
+                    "type": "V",
+                    "pub_datetime": "2021-07-05 14:21:50",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/kakqgt9cnobftgd2_1625475085.jpeg",
+                    "video_path": "6262390926001",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502907?v=6.96",
+                    "reading_time": "5-MIN",
+                    "meta_description": "India faces biggest ever health crisis | Arnab Goswami Debates ",
+                    "complete_slug": "https://stg-m.mynationvoice.com/entertainment-news/hollywood-news/daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-dot-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri.html",
+                    "color_code": []
+                },
+                {
+                    "id": 502907,
+                    "headline": "India faces biggest ever health crisis | Arnab Goswami Debates ",
+                    "type": "V",
+                    "pub_datetime": "2021-07-05 14:21:50",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/kakqgt9cnobftgd2_1625475085.jpeg",
+                    "video_path": "6262390926001",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502907?v=6.96",
+                    "reading_time": "5-MIN",
+                    "meta_description": "India faces biggest ever health crisis | Arnab Goswami Debates ",
+                    "complete_slug": "https://stg-m.mynationvoice.com/entertainment-news/hollywood-news/daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-dot-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri.html",
+                    "color_code": []
+                },
+                {
+                    "id": 502907,
+                    "headline": "India faces biggest ever health crisis | Arnab Goswami Debates ",
+                    "type": "V",
+                    "pub_datetime": "2021-07-05 14:21:50",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/kakqgt9cnobftgd2_1625475085.jpeg",
+                    "video_path": "6262390926001",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502907?v=6.96",
+                    "reading_time": "5-MIN",
+                    "meta_description": "India faces biggest ever health crisis | Arnab Goswami Debates ",
+                    "complete_slug": "https://stg-m.mynationvoice.com/entertainment-news/hollywood-news/daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-dot-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri.html",
+                    "color_code": []
+                }
+            ]
+        },
+        "poll": {
+            "image": "https://assets-jpcust.jwpsrv.com/thumbnails/lm79j970-720.jpg",
+            "description": "Your daily dose of must-watch videos, curated by Republic TV’s Editor-in-Chief Arnab Goswami",
+            "id": "1223",
+            "question": "Who has more to lose in the upcoming elections in 4 states and 1 UT?",
+            "option": [
+                {
+                    "pollOptionId": "1234",
+                    "pollOption": "BJP",
+                    "voteCount": "234",
+                    "selected": false,
+                    "color_code": "#956FFF"
+                },
+                {
+                    "pollOptionId": "1234",
+                    "pollOption": "Congress",
+                    "voteCount": "12",
+                    "selected": false,
+                    "color_code": "#FF6961"
+                },
+                {
+                    "pollOptionId": "1234",
+                    "pollOption": "AAP",
+                    "voteCount": "123",
+                    "selected": false,
+                    "color_code": "#00BBBB"
+                }
+            ]
+        },
+        "arnab_latest_interviews": {
+            "image": "https://assets-jpcust.jwpsrv.com/thumbnails/lm79j970-720.jpg",
+            "description": "Watch all the latest interviews by Arnab",
+            "stories": [
+                {
+                    "id": 502907,
+                    "headline": "Bharat Biotech MD Dr. Ella speaks to Arnab Goswami on COVAXIN, criticism, 2nd peak and nasal vaccine",
+                    "type": "V",
+                    "pub_datetime": "2021-07-05 14:21:50",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/kakqgt9cnobftgd2_1625475085.jpeg",
+                    "video_path": "6262390926001",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502907?v=6.96",
+                    "reading_time": "5-MIN",
+                    "meta_description": "Bharat Biotech MD Dr. Ella speaks to Arnab Goswami on COVAXIN, criticism, 2nd peak and nasal vaccine",
+                    "complete_slug": "https://stg-m.mynationvoice.com/entertainment-news/hollywood-news/daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-dot-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri.html",
+                    "color_code": []
+                },
+                {
+                    "id": 502907,
+                    "headline": "Mary Kom speaks to Arnab ",
+                    "type": "V",
+                    "pub_datetime": "2021-07-05 14:21:50",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/kakqgt9cnobftgd2_1625475085.jpeg",
+                    "video_path": "6262390926001",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502907?v=6.96",
+                    "reading_time": "5-MIN",
+                    "meta_description": "Mary Kom speaks to Arnab ",
+                    "complete_slug": "https://stg-m.mynationvoice.com/entertainment-news/hollywood-news/daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-dot-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri.html",
+                    "color_code": []
+                },
+                {
+                    "id": 502907,
+                    "headline": "UP CM Yogi Adityanath soeaks to Arnab",
+                    "type": "V",
+                    "pub_datetime": "2021-07-05 14:21:50",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/kakqgt9cnobftgd2_1625475085.jpeg",
+                    "video_path": "6262390926001",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502907?v=6.96",
+                    "reading_time": "5-MIN",
+                    "meta_description": "UP CM Yogi Adityanath soeaks to Arnab",
+                    "complete_slug": "https://stg-m.mynationvoice.com/entertainment-news/hollywood-news/daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-dot-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri.html",
+                    "color_code": []
+                },
+                {
+                    "id": 502907,
+                    "headline": "UP CM Yogi Adityanath soeaks to Arnab",
+                    "type": "V",
+                    "pub_datetime": "2021-07-05 14:21:50",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/kakqgt9cnobftgd2_1625475085.jpeg",
+                    "video_path": "6262390926001",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502907?v=6.96",
+                    "reading_time": "5-MIN",
+                    "meta_description": "UP CM Yogi Adityanath soeaks to Arnab",
+                    "complete_slug": "https://stg-m.mynationvoice.com/entertainment-news/hollywood-news/daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-dot-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri.html",
+                    "color_code": []
+                },
+                {
+                    "id": 502907,
+                    "headline": "UP CM Yogi Adityanath soeaks to Arnab",
+                    "type": "V",
+                    "pub_datetime": "2021-07-05 14:21:50",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/kakqgt9cnobftgd2_1625475085.jpeg",
+                    "video_path": "6262390926001",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502907?v=6.96",
+                    "reading_time": "5-MIN",
+                    "meta_description": "UP CM Yogi Adityanath soeaks to Arnab",
+                    "complete_slug": "https://stg-m.mynationvoice.com/entertainment-news/hollywood-news/daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-dot-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri.html",
+                    "color_code": []
+                }
+            ]
+        },
+        "arnab_top_comments": {
+            "image": "https://assets-jpcust.jwpsrv.com/thumbnails/lm79j970-720.jpg",
+            "description": "Arnab’s viral on-air moments",
+            "stories": [
+                {
+                    "id": 502907,
+                    "headline": "R-Day Conspiracy Explodes",
+                    "type": "V",
+                    "hashtag": "##IndiaExposesGlobalPlot",
+                    "pub_datetime": "2021-07-05 14:21:50",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/kakqgt9cnobftgd2_1625475085.jpeg",
+                    "video_path": "6262390926001",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502907?v=6.96",
+                    "reading_time": "5-MIN",
+                    "meta_description": "Global anti-India network exposed as Delhi Police connects Tool Kit to Republic Day violence",
+                    "complete_slug": "https://stg-m.mynationvoice.com/entertainment-news/hollywood-news/daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-dot-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri.html",
+                    "color_code": []
+                },
+                {
+                    "id": 502907,
+                    "headline": "Harish Salve speaks to Arnab on the Tool Kit Plot",
+                    "type": "V",
+                    "hashtag": "#SalveSpeaksToArnab",
+                    "pub_datetime": "2021-07-05 14:21:50",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/kakqgt9cnobftgd2_1625475085.jpeg",
+                    "video_path": "6262390926001",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502907?v=6.96",
+                    "reading_time": "5-MIN",
+                    "meta_description": "Harish Salve speaks to Arnab Goswami on foreign meddling, toolkit plot and action on terror",
+                    "complete_slug": "https://stg-m.mynationvoice.com/entertainment-news/hollywood-news/daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-dot-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri.html",
+                    "color_code": []
+                },
+                {
+                    "id": 502907,
+                    "headline": "R-Day Conspiracy Explodes",
+                    "type": "V",
+                    "hashtag": "#IndiaExposesGlobalPlot",
+                    "pub_datetime": "2021-07-05 14:21:50",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/kakqgt9cnobftgd2_1625475085.jpeg",
+                    "video_path": "6262390926001",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502907?v=6.96",
+                    "reading_time": "5-MIN",
+                    "meta_description": "Global anti-India network exposed as Delhi Police connects Tool Kit to Republic Day violence",
+                    "complete_slug": "https://stg-m.mynationvoice.com/entertainment-news/hollywood-news/daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-dot-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri.html",
+                    "color_code": []
+                },
+                {
+                    "id": 502907,
+                    "headline": "R-Day Conspiracy Explodes",
+                    "type": "V",
+                    "hashtag": "#IndiaExposesGlobalPlot",
+                    "pub_datetime": "2021-07-05 14:21:50",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/kakqgt9cnobftgd2_1625475085.jpeg",
+                    "video_path": "6262390926001",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502907?v=6.96",
+                    "reading_time": "5-MIN",
+                    "meta_description": "Global anti-India network exposed as Delhi Police connects Tool Kit to Republic Day violence",
+                    "complete_slug": "https://stg-m.mynationvoice.com/entertainment-news/hollywood-news/daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-dot-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri.html",
+                    "color_code": []
+                },
+                {
+                    "id": 502907,
+                    "headline": "R-Day Conspiracy Explodes",
+                    "type": "V",
+                    "hashtag": "#IndiaExposesGlobalPlot",
+                    "pub_datetime": "2021-07-05 14:21:50",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/kakqgt9cnobftgd2_1625475085.jpeg",
+                    "video_path": "6262390926001",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502907?v=6.96",
+                    "reading_time": "5-MIN",
+                    "meta_description": "Global anti-India network exposed as Delhi Police connects Tool Kit to Republic Day violence",
+                    "complete_slug": "https://stg-m.mynationvoice.com/entertainment-news/hollywood-news/daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-dot-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri.html",
+                    "color_code": []
+                }
+            ]
+        },
+        "arnab_shows": {
+            "image": "https://assets-jpcust.jwpsrv.com/thumbnails/lm79j970-720.jpg",
+            "description": "Arnab Goswami shows on political, current social issues with eminent celebrities from diverse fields exclusively on Republic World.Watch as Arnab Goswami debates on topics that matter to the nation.",
+            "stories": [
+                {
+                    "id": 502907,
+                    "headline": "Terrorists shoot at 2 policemen in Srinagar",
+                    "type": "V",
+                    "hashtag": "#CrushTerrorToolkit",
+                    "pub_datetime": "2021-07-05 14:21:50",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/kakqgt9cnobftgd2_1625475085.jpeg",
+                    "video_path": "6262390926001",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502907?v=6.96",
+                    "reading_time": "5-MIN",
+                    "meta_description": "Terrorists open fire at police officials, toolkit backers remain silent",
+                    "complete_slug": "https://stg-m.mynationvoice.com/entertainment-news/hollywood-news/daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-dot-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri.html",
+                    "color_code": []
+                },
+                {
+                    "id": 502907,
+                    "headline": "Mary Kom speaks to Arnab ",
+                    "type": "V",
+                    "hashtag": "##IndiaExposesGlobalPlot",
+                    "pub_datetime": "2021-07-05 14:21:50",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/kakqgt9cnobftgd2_1625475085.jpeg",
+                    "video_path": "6262390926001",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502907?v=6.96",
+                    "reading_time": "5-MIN",
+                    "meta_description": "Mary Kom speaks to Arnab ",
+                    "complete_slug": "https://stg-m.mynationvoice.com/entertainment-news/hollywood-news/daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-dot-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri.html",
+                    "color_code": []
+                },
+                {
+                    "id": 502907,
+                    "headline": "Mary Kom speaks to Arnab ",
+                    "type": "V",
+                    "hashtag": "##IndiaExposesGlobalPlot",
+                    "pub_datetime": "2021-07-05 14:21:50",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/kakqgt9cnobftgd2_1625475085.jpeg",
+                    "video_path": "6262390926001",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502907?v=6.96",
+                    "reading_time": "5-MIN",
+                    "meta_description": "Mary Kom speaks to Arnab ",
+                    "complete_slug": "https://stg-m.mynationvoice.com/entertainment-news/hollywood-news/daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-dot-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri.html",
+                    "color_code": []
+                },
+                {
+                    "id": 502907,
+                    "headline": "Mary Kom speaks to Arnab ",
+                    "type": "V",
+                    "hashtag": "##IndiaExposesGlobalPlot",
+                    "pub_datetime": "2021-07-05 14:21:50",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/kakqgt9cnobftgd2_1625475085.jpeg",
+                    "video_path": "6262390926001",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502907?v=6.96",
+                    "reading_time": "5-MIN",
+                    "meta_description": "Mary Kom speaks to Arnab ",
+                    "complete_slug": "https://stg-m.mynationvoice.com/entertainment-news/hollywood-news/daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-dot-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri.html",
+                    "color_code": []
+                },
+                {
+                    "id": 502907,
+                    "headline": "Kangana Speaks to Arnab",
+                    "type": "V",
+                    "hashtag": "##IndiaExposesGlobalPlot",
+                    "pub_datetime": "2021-07-05 14:21:50",
+                    "image": "https://img.republicworld.com/republic-prod/stories/promolarge/hdpi/kakqgt9cnobftgd2_1625475085.jpeg",
+                    "video_path": "6262390926001",
+                    "story_text_url": "https://jarvis.mynationvoice.com/text/s/502907?v=6.96",
+                    "reading_time": "5-MIN",
+                    "meta_description": "Kangana Ranaut speaks to Arnab Goswami",
+                    "complete_slug": "https://stg-m.mynationvoice.com/entertainment-news/hollywood-news/daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri-dot-daisy-by-sheth-creators-an-indulgent-destination-set-to-bloom-at-vasant-oasis-andheri.html",
+                    "color_code": []
+                }
+            ]
+        }
+    }
+}
